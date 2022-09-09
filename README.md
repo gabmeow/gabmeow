@@ -1,4 +1,4 @@
-<img align="top" alt="Coding" width="400" height="400" src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif">
+<img align="topcenter" alt="Coding" width="400" height="400" src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif">
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif">
 
  - Hi 👋 I'm Gabmeow

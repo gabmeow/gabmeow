@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="[https://gist.github.com/patevs/b007a0e98fb216438d4cbf559fac4166](https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif)">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif">
 
  - Hi 👋 I'm Gabmeow
  - Operating System developer from Italy

@@ -1,3 +1,5 @@
+(img align="right" alt="Coding" width="400" src="https://gist.github.com/patevs/b007a0e98fb216438d4cbf559fac4166")
+
  - Hi 👋 I'm Gabmeow
  - Operating System developer from Italy
  - Currently working on: [CubixOS](https://github.com/gabmeow/CubixOS)

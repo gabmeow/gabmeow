@@ -3,7 +3,7 @@
 
  - Hi 👋 I'm Gabmeow
  - Operating System developer from Italy
- - Currently working on: [CubixOS](https://github.com/gabmeow/CubixOS)
+ - Currently working on: [CubixOS](https://github.com/gabmeow/CubixOS) and [PlasmaOS](https://github.com/gabmeow/Plasma-OS)
  - I really like: cats😺
 
 <h3 align="left">Languages and Tools:</h3>
